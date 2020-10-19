@@ -1,0 +1,13 @@
+{
+    "name": "moi/app",
+    "require": {
+        "php": ">=5.3",
+        "google/apiclient": "^2.7"
+    },
+    "authors": [
+        {
+            "name": "ananas",
+            "email": "ananas@ananas.fr"
+        }
+    ]
+}
