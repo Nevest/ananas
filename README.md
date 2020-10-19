@@ -11,9 +11,7 @@ Bwaaa
 ## TO RUN IN CMD :
 
 - For the first use : 
-
 $ composer install
 
 - Esle: 
-
 $ composer update
