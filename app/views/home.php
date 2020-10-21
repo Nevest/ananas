@@ -26,8 +26,8 @@
     <meta charset="UTF-8" />
     <title>Hack This Ananas !</title>
     <meta name="description" content="Dans le cadre du cours HTML5/CSS3 du DUT MMI de Laval, cette première page permet de comprendre les grands principes de découpage et de fonctionnement d'une page web" />
-    <link rel="shortcut icon" href="images/icone.ico" type="image/x-icon" />
-    <link rel="stylesheet" href="css/style.css" type="text/css" />
+    <link rel="shortcut icon" href="<?= $asset->img('icone.ico') ?>" type="image/x-icon" />
+    <link rel="stylesheet" href="<?= $asset->css('style.css') ?>" type="text/css" />
     <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
 </head>
