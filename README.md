@@ -10,7 +10,7 @@ Bwaaa
 
 ## GITHUB :
 
-Changement branches :
+> git clone https://github.com/Nevest/ananas.git
 > git pull
 > git checkout frontend
 > git commit -am "modif readme"
