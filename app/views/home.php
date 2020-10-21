@@ -11,7 +11,14 @@
      *     - $asset->img('filename with extension')
      *     - $asset->css('filename with extension')
      *     - $asset->js('filename with extension')
+     * 
+     * Exemple :
+     *      <div>
+     *          <img src="<?= $asset->img('toto/image_name.png') ?>" alt="">
+     *      </div>
      */
 ?>
+
+
 
 Hello World

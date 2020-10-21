@@ -3,8 +3,6 @@
 namespace App\Controllers;
 
 use \App\Models\Views;
-use \App\Models\FormationManager;
-use \App\Models\Team;
 
 /**
  *
