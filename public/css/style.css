@@ -1,4 +1,106 @@
-* {
-    margin: 0;
-    padding: 0;
+html{
+    background-image: url(../images/background.jpg);
+    padding:0;
+}
+
+body{
+    margin:0;
+    padding:0;
+}
+
+/*______________________________________HEADER_______*/
+
+header{
+    background-color: #8E7333;
+    display:flex;
+    flex-direction: row;
+    
+    align-items: center;
+    justify-content: space-between;
+    margin : 0;
+    padding : 0;
+    
+}
+
+#logo{
+    width:90px;
+    height:90px;
+    margin:10px
+}
+
+h1{
+    font-family: 'Cairo', sans-serif;
+    font-size: 40px;
+    color:#F2CD75;
+    margin:0px;
+}
+
+#bouton_inutile{
+    height: 50px;
+    width: 150px;
+    font-size: 15px;
+    font-family: 'Cairo', sans-serif;
+    color:#F2CD75;
+    background-color: #8E7333;
+    border: none;
+    border: #F2CD75 2px solid;
+    border-radius: 15px;
+    margin-right: 10px;
+}
+
+
+/*______________________________________MAIN_______*/
+
+main{
+    display: flex;
+    flex-direction: column;
+    /*justify-content: center;
+    align-items: center;*/
+    max-width: 20%;
+    margin-top:10%;
+    
+}
+
+
+h2{
+    font-family: 'Cairo', sans-serif;
+    font-size: 80px;
+    color:#8E7333;
+    margin:0px;
+}
+
+form div{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#url_video{
+    height: 100%;
+    width: 130%;
+    border: none;
+    border: #8E7333 5px solid;
+    border-radius: 15px;
+    
+    font-family: 'Cairo', sans-serif;
+    font-size: 20px;
+    color:#8E7333;
+    padding-left:10px;
+}
+
+#envoyer{
+    height: 100%;
+    width: 30%;
+    border: none;
+    border: #24962A 5px solid;
+    border-radius: 15px;
+    background-color: #4ED454;
+    
+    padding:1em;
+}
+
+#walking_pineapple{
+    height: 40px;
+    display:block;
+    margin:auto;
 }
