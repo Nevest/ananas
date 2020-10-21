@@ -18,7 +18,6 @@
      *      </div>
      */
 ?>
-
 <!DOCTYPE html>
 <html lang="fr">
 
