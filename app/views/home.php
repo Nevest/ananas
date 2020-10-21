@@ -59,5 +59,6 @@
         <footer>
         </footer>
         
+        <script src="<?= $asset->js('style.js') ?>"></script>
     </body>
 </html>
