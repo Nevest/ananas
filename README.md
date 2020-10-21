@@ -11,6 +11,7 @@ Bwaaa
 ## GITHUB :
 
 Changement branches :
+> git pull
 > git checkout frontend
-
-
+> git commit -am "modif readme"
+> git push
