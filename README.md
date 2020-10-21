@@ -1,17 +1,16 @@
 # ananas
 Bwaaa
 
-## Config & Install
+## Configurations requises (WIN)
 
-- https://sourceforge.net/projects/wampserver/files/latest/download
-- https://getcomposer.org/Composer-Setup.exe
-- https://github.com/git-for-windows/git/releases/download/v2.29.0.windows.1/Git-2.29.0-64-bit.exe
+- ![wamp](https://sourceforge.net/projects/wampserver/files/latest/download?style=flat-square)
+- ![composer](https://getcomposer.org/Composer-Setup.exe?style=flat-square)
+- ![github](https://github.com/git-for-windows/git/releases/download/v2.29.0.windows.1/Git-2.29.0-64-bit.exe?style=flat-square)
 
 
-## TO RUN IN CMD :
+## GITHUB :
 
-- For the first use : 
-$ composer install
+Changement branches :
+> git checkout frontend
 
-- Esle: 
-$ composer update
+
