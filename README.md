@@ -15,3 +15,9 @@ Bwaaa
 > git checkout frontend
 > git commit -am "modif readme"
 > git push
+
+
+## COMPOSER : 
+
+> composer install # pour le première utilisation
+> composer update # maj du fichier composer.json
