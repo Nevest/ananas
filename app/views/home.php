@@ -38,7 +38,7 @@
             <h1>Hack This Ananas</h1>
             </div>
             <div>
-                <button id="bouton_inutile">Bouton inutile</button>
+                <button id="bouton_inutile">Bouton purulent</button>
             </div>
         </header>
         
